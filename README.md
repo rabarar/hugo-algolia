@@ -8,3 +8,8 @@ Hugo Algolia Updater
 - update the `updateAlgolia.sh` script to include your private API key
 
 
+## After building the tool, run it by calling the **updateAlgolia.sh** script
+
+- `$ ./updateAlgolia.sh`
+
+
